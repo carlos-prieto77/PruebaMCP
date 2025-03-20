@@ -1,1 +1,12 @@
-Este es un archivo de prueba creado en el repositorio PruebaMCP.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba HTML</title>
+</head>
+<body>
+    <h1>Bienvenido a la Prueba HTML</h1>
+    <p>Este es un ejemplo de código HTML dentro del archivo prueba.txt.</p>
+</body>
+</html>
